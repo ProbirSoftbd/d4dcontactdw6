@@ -2,12 +2,12 @@
        {
       "id":11,
       "name":"Dhaka Region",
-      "mobile":"dr1"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/dr1.json"
    },
    {
       "id":12,
       "name":"Dhaka Zone",
-      "mobile":"dr2"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/dr2.json"
 
    }
    ]
