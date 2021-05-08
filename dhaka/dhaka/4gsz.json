@@ -1,0 +1,22 @@
+[
+  {
+      "id":55,
+      "name":"Incharge (Gazipur Sub-Zone) ",
+      "mobile":"01320158095"
+   },
+   {
+      "id":56,
+      "name":"Inspector (Gazipur Sub-Zone) ",
+      "mobile":"01320158097"
+   },
+   {
+      "id":57,
+      "name":"Duty Officer (Gazipur Sub-Zone)",
+      "mobile":"01320158112"
+   },
+   {
+      "id":58,
+      "name":"Patrol Duty (Gazipur Sub-Zone)",
+      "mobile":"01320158113"
+   }
+]

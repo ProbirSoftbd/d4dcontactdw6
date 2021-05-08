@@ -1,13 +1,43 @@
   [
        {
       "id":11,
-      "name":"Dhaka Region",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/dr1.json"
+      "name":"Region Office, Dhaka",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/1ro.json"
    },
    {
       "id":12,
       "name":"Dhaka Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/dr2.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/2dz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Dhaka Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/3dsz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Gazipur Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/4gsz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Narshingdi Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/5nsz.json"
+
+   },
+    {
+      "id":12,
+      "name":"Narayanganj Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+
+   } ,
+    {
+      "id":12,
+      "name":"Munshiganj & Padma Brodge Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/7msz.json"
 
    }
    ]
