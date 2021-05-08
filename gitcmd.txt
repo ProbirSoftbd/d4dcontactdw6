@@ -15,9 +15,14 @@ git branch -M main
 git push -u origin main
 
 
+   // to add all content of a folder
 
-1) git init
+git init
 
-2) git add .   // to add all content of a folder
+git add .
 
-3) git commit -m "Add all my files"
+ git commit -m "Add all my files"
+
+git remote add origin https://github.com/ProbirSoftbd/d4dcontactdw6.git
+git branch -M main
+git push -u origin main
