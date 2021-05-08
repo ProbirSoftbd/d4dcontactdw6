@@ -7,43 +7,43 @@
    {
       "id":12,
       "name":"Cox's Bazar Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/2dz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/2cz.json"
 
    },
    {
       "id":12,
       "name":"Cox's Bazar Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/3dsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/2csz.json"
 
    },
    {
       "id":12,
       "name":"Inani Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/4gsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/3isz.json"
 
    },
    {
       "id":12,
       "name":"Dulhazra Safari-Park  Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/5nsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/4dulsz.json"
 
    },
     {
       "id":12,
-      "name":"Teknaf Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/6ngsz.json"
+      "name":"Teknaf Region & Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/5tknfz.json"
 
    } ,
     {
       "id":12,
       "name":"Teknaf Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/6ngsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/5tknfsz.json"
 
    } ,
     {
       "id":12,
       "name":"St.Martin Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/7msz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/chattagram/CoxsBazar/6stsz.json"
 
    }
    ]
