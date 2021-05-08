@@ -1,0 +1,33 @@
+[
+  {
+ {
+      "id":202,
+      "name":"Incharge (Kuakata Sub-Zone)",
+      "mobile":"01320160265"
+   },
+   {
+      "id":203,
+      "name":"Inspector (Kuakata Sub-Zone)",
+      "mobile":"01320160267"
+   },
+   {
+      "id":204,
+      "name":"Inspector (Kuakata Sub-Zone) (T&T)",
+      "mobile":"01320160268"
+   },
+   {
+      "id":205,
+      "name":"Duty Officer (Kuakata Sub-Zone) ",
+      "mobile":"01320160282"
+   },
+   {
+      "id":206,
+      "name":"Patrol Duty-1 (Kuakata Sub-Zone)",
+      "mobile":"01320160283"
+   },
+   {
+      "id":207,
+      "name":"Patrol Duty-2 (Kuakata Sub-Zone)",
+      "mobile":"01320160284"
+   }
+]

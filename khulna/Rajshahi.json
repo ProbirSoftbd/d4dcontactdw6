@@ -2,42 +2,42 @@
        {
       "id":11,
       "name":"Region Office, Rajshahi",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/1ro.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/1ro.json"
    },
    {
       "id":12,
       "name":"Rajshahi Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/2dz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/2rz.json"
 
    },
    {
       "id":12,
       "name":"Rajshahi Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/3dsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/3rsz.json"
 
    },
    {
       "id":12,
       "name":"Naogaon Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/4gsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/4nsz.json"
 
    },
    {
       "id":12,
       "name":"Natore Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/5nsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/5nasz.json"
 
    },
     {
       "id":12,
       "name":"Sirajganj Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/6sz.json"
 
    } ,
     {
       "id":12,
       "name":" Bogura Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/7msz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/Rajshahi/7bz.json"
 
    }
    ]

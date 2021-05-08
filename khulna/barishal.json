@@ -2,30 +2,30 @@
        {
       "id":11,
       "name":"Region Office, Barishal",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/1ro.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/barishal/1ro.json"
    },
    {
       "id":12,
       "name":"Barishal Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/2dz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/barishal/2bz.json"
 
    },
    {
       "id":12,
       "name":"Kuakata Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/3dsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/barishal/3kz.json"
 
    },
    {
       "id":12,
       "name":"Kuakata Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/4gsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/barishal/3ksz.json"
 
    },
    {
       "id":12,
       "name":"Pairabondor Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/5nsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/barishal/4psz.json"
 
    }
 

@@ -1,17 +1,17 @@
 [
-{
-      "id":104,
-      "name":"SP (Chattogram Region)",
-      "mobile":"01320158750"
+ {
+      "id":229,
+      "name":"SP (Rajshahi Region)",
+      "mobile":"01320160590"
    },
    {
-      "id":105,
-      "name":"Inspector (Chattogram Region)",
-      "mobile":"01320158762"
+      "id":230,
+      "name":"Inspector (Rajshahi Region)",
+      "mobile":"01320160602"
    },
    {
-      "id":106,
-      "name":"Comand& Control (Chattogram Region )",
-      "mobile":"01320158789"
+      "id":231,
+      "name":"Comand& Control (Rajshahi Region)",
+      "mobile":"01320160629"
    }
 ]

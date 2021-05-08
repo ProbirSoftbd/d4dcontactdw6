@@ -2,48 +2,48 @@
        {
       "id":11,
       "name":"Region Office, Khulna",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/1ro.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/1ro.json"
    },
    {
       "id":12,
       "name":"Sundarban Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/2dz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/2sz.json"
 
    },
    {
       "id":12,
       "name":"Bagerhat Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/3dsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/3bz.json"
 
    },
    {
       "id":12,
       "name":"Satkhira Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/4gsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/4skz.json"
 
    },
    {
       "id":12,
       "name":"Gopalganj (Tungipara) Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/5nsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/5gz.json"
 
    },
     {
       "id":12,
       "name":"Kushtia Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/6kz.json"
 
    } ,
     {
       "id":12,
       "name":"Kushtia Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/6ksz.json"
 
    } ,
     {
       "id":12,
       "name":"Meherpur Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/khulna/khulna/7msz.json"
 
    }
    ]
