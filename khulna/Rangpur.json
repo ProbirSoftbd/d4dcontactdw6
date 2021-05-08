@@ -1,0 +1,36 @@
+  [
+       {
+      "id":11,
+      "name":"Region Office, Rangpur",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/1ro.json"
+   },
+   {
+      "id":12,
+      "name":"Rangpur Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/2dz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Rangpur Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/3dsz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Nilphamari Sub-Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/4gsz.json"
+
+   },
+   {
+      "id":12,
+      "name":"Dinajpur Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/5nsz.json"
+
+   },
+    {
+      "id":12,
+      "name":"Panchagarh Zone",
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/dhaka/6ngsz.json"
+   }
+   ]
