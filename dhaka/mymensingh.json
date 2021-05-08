@@ -7,18 +7,18 @@
    {
       "id":12,
       "name":"Mymensingh Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/2sz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/2mz.json"
 
    },{
       "id":12,
       "name":"Mymensingh Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/2ssz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/2msz.json"
 
    },
    {
       "id":12,
       "name":"Tangail Sub-Zone",
-      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/3jsz.json"
+      "mobile":"https://raw.githubusercontent.com/ProbirSoftbd/d4dcontactdw6/main/dhaka/mymensingh/3tsz.json"
 
    }
    ]
