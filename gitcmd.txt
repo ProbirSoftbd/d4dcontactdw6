@@ -26,3 +26,11 @@ git add .
 git remote add origin https://github.com/ProbirSoftbd/d4dcontactdw6.git
 git branch -M main
 git push -u origin main
+
+
+
+----------------------update/push-----------------
+git add .
+git commit -m "update "
+git branch -M main
+git push -u origin main
