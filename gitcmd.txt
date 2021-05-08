@@ -6,8 +6,18 @@ git branch -M main
 git remote add origin https://github.com/ProbirSoftbd/d4dcontactdw6.git
 git push -u origin main
 
+
+to Update:
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/ProbirSoftbd/d4dcontactdw6.git
 git branch -M main
 git push -u origin main
+
+
+
+1) git init
+
+2) git add .   // to add all content of a folder
+
+3) git commit -m "Add all my files"
