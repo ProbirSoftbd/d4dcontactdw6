@@ -31,6 +31,6 @@ git push -u origin main
 
 ----------------------update/push-----------------
 git add .
-git commit -m "update "
+git commit -m "update fwrsssw"
 git branch -M main
 git push -u origin main
